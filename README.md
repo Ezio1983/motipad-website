@@ -12,7 +12,11 @@ The site supports Traditional Chinese, English, French, German, Japanese, Korean
 
 ## Downloads
 
-Official App Store and Windows installer URLs have not been provided yet. The website correctly says the download links are coming soon. Windows installers can be uploaded to this repository’s Releases once ready.
+Windows installer: https://github.com/Ezio1983/motipad-website/releases/latest/download/MotiPadSetup.msi
+
+Release page: https://github.com/Ezio1983/motipad-website/releases/tag/v1.0.0
+
+Keep the asset name `MotiPadSetup.msi` for future releases so the website link continues to point to the latest release. The iPhone App Store link will be added after launch.
 
 ## Privacy
 
