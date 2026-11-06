@@ -112,3 +112,7 @@
 .hero .eyebrow,.touch-section .kicker{display:block;box-sizing:border-box;width:100%;max-width:1050px;margin-inline:auto;padding-inline:0;text-align:center}
 .touch-section .headline{width:100%;max-width:1050px;margin-inline:auto;text-align:center}
 .centered-title-line{width:100%;margin-inline:auto}
+
+/* Keep both platform downloads visible and allow long translations to wrap. */
+.download-actions{display:flex;flex-wrap:wrap;align-items:center;gap:12px;flex-shrink:0;max-width:100%}
+.download-actions .btn{white-space:normal}
